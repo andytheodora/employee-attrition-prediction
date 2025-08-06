@@ -1,6 +1,3 @@
-# employee-attrition-prediction
-Predict employee attrition using machine learning
-
 # Employee Attrition Prediction
 
 This project focuses on predicting employee attrition using machine learning techniques. The goal is to analyze employee-related data to identify patterns and trends that can help organizations retain talent and reduce turnover.
