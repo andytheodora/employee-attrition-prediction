@@ -65,8 +65,6 @@ Summary of results will be based on:
 - ROC-AUC curve
 - Classification report
 
-(You can fill in the final scores here if available.)
-
 ## Project Structure
 
 Employee.prediction.2.ipynb
